@@ -1,9 +1,9 @@
 
 # UWMMSE-MIMO
-Tensorflow implementation of Deep Graph Unfolding for Beamforming in MU-MIMO Interference Networks (https://arxiv.org/abs/2304.00446)
+Tensorflow 2.0 implementation of Deep Graph Unfolding for Beamforming in MU-MIMO Interference Networks (https://arxiv.org/abs/2304.00446)
 
 ## Overview
-This library contains a Tensorflow implementation of Deep Graph Unfolding for Beamforming in MU-MIMO Interference Networks as presented in [[1]](#citation)(https://arxiv.org/abs/2304.00446).
+This library contains a Tensorflow 2.0 implementation of Deep Graph Unfolding for Beamforming in MU-MIMO Interference Networks as presented in [[1]](#citation)(https://arxiv.org/abs/2304.00446).
 
 ## Dependencies
 
