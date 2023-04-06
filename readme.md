@@ -9,7 +9,7 @@ This library contains a Tensorflow implementation of Deep Graph Unfolding for Be
 
 * **python>=3.6**
 * **tensorflow>=1.14.0**: https://tensorflow.org
-* **tensorflow_addons
+* **tensorflow_addons**
 * **numpy**
 * **matplotlib**
 
