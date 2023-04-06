@@ -38,7 +38,6 @@ BibTeX format:
   title={Deep Graph Unfolding for Beamforming in MU-MIMO Interference Networks},
   author={Chowdhury, Arindam and Verma, Gunjan and Swami, Ananthram and Segarra, Santiago},
   journal={arXiv e-prints},
-  pages={},
   year={2023}
 }
 ```
