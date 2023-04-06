@@ -1,13 +1,15 @@
 
 # UWMMSE-MIMO
-Tensorflow implementation of UWMMSE-MIMO
+Tensorflow implementation of Deep Graph Unfolding for Beamforming in MU-MIMO Interference Networks (https://arxiv.org/abs/2304.00446)
 
 ## Overview
-This library contains a Tensorflow implementation of multi-antenna version of UWMMSE[1].
+This library contains a Tensorflow implementation of Deep Graph Unfolding for Beamforming in MU-MIMO Interference Networks as presented in [[1]](#citation)(https://arxiv.org/abs/2304.00446).
+
 ## Dependencies
 
 * **python>=3.6**
 * **tensorflow>=1.14.0**: https://tensorflow.org
+* **tensorflow_addons
 * **numpy**
 * **matplotlib**
 
