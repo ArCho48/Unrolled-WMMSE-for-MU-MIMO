@@ -28,17 +28,17 @@ For questions and comments, feel free to contact [Arindam Chowdhury](mailto:arin
 
 ## Citation
 ```
-[1] Chowdhury A, Verma G, Rao C, Swami A, Segarra S. ML-aided power allocation for Tactical MIMO. 
-arXiv preprint arXiv:2109.06992 2021 Sep 14.
+[1] Chowdhury A, Verma G, Swami A, Segarra S. Deep Graph Unfolding for Beamforming in MU-MIMO Interference Networks. 
+arXiv preprint arXiv:2304.00446 2023 Apr 02.
 ```
 
 BibTeX format:
 ```
-@article{chowdhury2021ml,
-  title={ML-aided power allocation for Tactical MIMO},
-  author={Chowdhury, Arindam and Verma, Gunjan and Rao, Chirag and Swami, Ananthram and Segarra, Santiago},
+@article{chowdhury2023deep,
+  title={Deep Graph Unfolding for Beamforming in MU-MIMO Interference Networks},
+  author={Chowdhury, Arindam and Verma, Gunjan and Swami, Ananthram and Segarra, Santiago},
   journal={arXiv e-prints},
-  pages={arXiv--2109},
-  year={2021}
+  pages={},
+  year={2023}
 }
 ```
