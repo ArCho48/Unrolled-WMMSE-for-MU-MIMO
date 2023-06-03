@@ -14,7 +14,7 @@ This library contains a Tensorflow implementation of Deep Graph Unfolding for Be
 * **matplotlib**
 
 ## Structure
-* [main](https://github.com/ArCho48/UWMMSE-MIMO/blob/master/main.py): Main code for running the experiments in the paper. Run as python3 main.py --datasetID {dataset ID} --tx_antennas {T} --rx_antennas {R} --expID {exp ID} --mode {mode}. For ex. to train UWMMSE on dataset with ID set3 having 5 tx and 3 rx antennas, run python3 main.py --datasetID set3 --tx_antennas 5 --rx_antennas 3 --expID uwmmse --mode train.
+* [main](https://github.com/ArCho48/UWMMSE-MIMO/blob/master/main.py): Main code for running the experiments in the paper. Run as python3 main.py --datasetID {dataset ID} --tx_antennas {T} --rx_antennas {R} --expID {exp ID} --mode {mode} --unrolled_layers {L}. For ex. to train UWMMSE on dataset with ID set3 having 5 tx and 3 rx antennas, run python3 main.py --datasetID set3 --tx_antennas 5 --rx_antennas 3 --expID uwmmse --mode train --unrolled_layers 1. For best results, train with 1 unrolled layer and use atleast 3 unrolled layers at inference.
 * [model](https://github.com/ArCho48/UWMMSE-MIMO/blob/master/model.py): Defines the UWMMSE model.
 * [data](https://github.com/ArCho48/UWMMSE-MIMO/tree/master/data): should contain your dataset in folder {dataset ID}. 
 * [models](https://github.com/ArCho48/UWMMSE-MIMO/tree/master/models): Stores trained models in a folder with same name as {datset ID}.
